@@ -2,7 +2,7 @@ import { Model, Schema, model } from 'mongoose'
 import { IUser } from './users.interface'
 
 // 2. Create a Model.
-// Create a new Model type that knows about IUserMethods...
+// Create a new Model
 type UserModel = Model<IUser, object>
 
 // 3. Create a Schema corresponding to the document type/interface.
@@ -27,4 +27,5 @@ const userSchema = new Schema<IUser>(
   }
 )
 
+// creating a model
 export const User = model<IUser, UserModel>('User', userSchema)
