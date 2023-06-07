@@ -11,6 +11,8 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 // Application Routes
+console.log(app.get('env'))
+
 app.use('/api/v1/users/', usersRouter)
 
 // Testing
