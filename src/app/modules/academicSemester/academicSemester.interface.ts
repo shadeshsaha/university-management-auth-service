@@ -20,7 +20,7 @@ export type IAcademicSemesterCodes = '01' | '02' | '03';
 // first create a type/interface (step:1)
 export type IAcademicSemester = {
   title: IAcademicSemesterTitles;
-  year: number;
+  year: string;
   code: IAcademicSemesterCodes;
   startMonth: IAcademicSemesterMonths;
   endMonth: IAcademicSemesterMonths;
@@ -28,3 +28,8 @@ export type IAcademicSemester = {
 
 // Now need to create a model (step:2)
 export type AcademicSemesterModel = Model<IAcademicSemester>;
+
+// Filters/pagination
+export type IAcademicSemesterFilters = {
+  searchTerm?: string;
+};
