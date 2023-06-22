@@ -239,6 +239,81 @@
             "date": 1686950198458,
             "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-03-error.log",
             "hash": "7a49c784ce0710c9adcf7c534372c2726417a5057bf6da3164e7a12e80e850f6"
+        },
+        {
+            "date": 1686958935328,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-05-error.log",
+            "hash": "9403fbcc38a26ab6409920660e63e3a333bb69bdf41ad0453696dc8a4134e602"
+        },
+        {
+            "date": 1686962096931,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-06-error.log",
+            "hash": "b619ef06431cf1e5ffbcbed2be281caee75a03b321b3a01c268e655a77957717"
+        },
+        {
+            "date": 1686966309700,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-07-error.log",
+            "hash": "44e7e8d81404d35f972307e65e8921062c4fd80a8cf3c056649f6d6c66c1ad0d"
+        },
+        {
+            "date": 1686967277588,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-08-error.log",
+            "hash": "1d7baea33e41ac7bbfe41876a1cbf04961dcff3c196b16dc55452bd988304465"
+        },
+        {
+            "date": 1686993093307,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-15-error.log",
+            "hash": "7154b7a71b6214af5df29b3817ffbd41689187460a368a22e7c17e86c71d2ba3"
+        },
+        {
+            "date": 1687006287047,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-18-error.log",
+            "hash": "9616f609cca0f82926a3f0dff906a0c4d648c85abf994b03df2b8f3ec78e9f86"
+        },
+        {
+            "date": 1687038072415,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-03-error.log",
+            "hash": "1099635f4f94adf3d4e269eed3b5f45a0273a0967fd72eeed49b575041ea90d2"
+        },
+        {
+            "date": 1687080832590,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-15-error.log",
+            "hash": "62077eb14b9c4af764af86df27b3423d99b899bba60cb464c42997dd17d8e715"
+        },
+        {
+            "date": 1687089045130,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-17-error.log",
+            "hash": "15aa36f656f2a0c57801422ce42eda83baa2c8a1f26d6e1490f027571b857433"
+        },
+        {
+            "date": 1687092653195,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-18-error.log",
+            "hash": "13999cfac6c8809736b13567e0b4f5c2665e4f84991555c2d92af639516c45bc"
+        },
+        {
+            "date": 1687093243105,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-19-error.log",
+            "hash": "d62b037e670b6e0736d22287072efac6c1ed8fb8d44c88f6c96332a70c399602"
+        },
+        {
+            "date": 1687118776831,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-02-error.log",
+            "hash": "0312ba1c6e91077bf9b7cecebe71c865f9a3856731c2d014531e1b79fe47f9c7"
+        },
+        {
+            "date": 1687131525156,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-05-error.log",
+            "hash": "6ddcc58f0264c2589ae5040f89b42225a8b92e9fa5560cc2931ba7dc684352b5"
+        },
+        {
+            "date": 1687169719398,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-16-error.log",
+            "hash": "35e91f48e393bd13469fc6dace447e99e52a6b0cc0f3c571dd9fd3354713b832"
+        },
+        {
+            "date": 1687172876792,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-17-error.log",
+            "hash": "2a11b75b2cad93f37bd914ff2d2405d8055f8bc50fdebb6ca7b819cbcafb3208"
         }
     ],
     "hashType": "sha256"
