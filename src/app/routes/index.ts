@@ -12,20 +12,8 @@ const router = express.Router();
 
 const moduleRoutes = [
   {
-    path: '/academic-semesters',
-    route: AcademicSemesterRoutes,
-  },
-  {
-    path: '/academic-faculties',
-    route: AcademicFacultyRoutes,
-  },
-  {
-    path: '/academic-departments',
-    route: AcademicDepartmentRoutes,
-  },
-  {
-    path: '/management-departments',
-    route: ManagementDepartmentRoutes,
+    path: '/users',
+    route: UserRoutes,
   },
   {
     path: '/students',
@@ -40,8 +28,20 @@ const moduleRoutes = [
     route: AdminRoutes,
   },
   {
-    path: '/users',
-    route: UserRoutes,
+    path: '/academic-semesters',
+    route: AcademicSemesterRoutes,
+  },
+  {
+    path: '/academic-faculties',
+    route: AcademicFacultyRoutes,
+  },
+  {
+    path: '/academic-departments',
+    route: AcademicDepartmentRoutes,
+  },
+  {
+    path: '/management-departments',
+    route: ManagementDepartmentRoutes,
   },
 ];
 

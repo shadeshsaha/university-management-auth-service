@@ -26,7 +26,4 @@ router.post(
   UserController.createAdmin
 );
 
-// create faculty
-// create admin
-
 export const UserRoutes = router;
