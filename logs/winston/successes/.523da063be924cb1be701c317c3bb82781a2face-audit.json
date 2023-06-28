@@ -6,11 +6,6 @@
     "auditLog": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\successes\\.523da063be924cb1be701c317c3bb82781a2face-audit.json",
     "files": [
         {
-            "date": 1686776591720,
-            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-03-success.log",
-            "hash": "20c6947a323b5c4b964504295b5255e64f78d1981c4e2ad33ef840d5a3659cc8"
-        },
-        {
             "date": 1686784667090,
             "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-15-06-05-success.log",
             "hash": "cc930a0b5d8540020b158a8ec899b0366992e9a76ab2c4ffb92135d8ab5ea6d1"
@@ -209,6 +204,11 @@
             "date": 1687985060399,
             "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-29-06-02-success.log",
             "hash": "cc0c5c00cf2585858a14264eac6cb4628488dbbdd4c38842acc1bd0ad08c389a"
+        },
+        {
+            "date": 1687986463511,
+            "name": "F:\\Programming Hero Batch-4\\Next Level 2.0\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-29-06-03-success.log",
+            "hash": "584b5ce36c92f5129f01e4b8fea47c477291421fa23c12115853ed04afce048c"
         }
     ],
     "hashType": "sha256"
