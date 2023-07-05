@@ -52,7 +52,24 @@ const refreshToken = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
+const changePassword = catchAsync(async (req: Request, res: Response) => {
+  // jei user k update korbo, take tar token theke pawa jabe. r eta pabo "req" a amader custom banano "user" er moddhe.
+  const user = req.user; // user = {userId, role}
+  // console.log(user);
+
+  const { ...passwordData } = req.body;
+  const result = await AuthService.changePassword(user, passwordData);
+
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Password Changed Successfully !',
+    data: result,
+  });
+});
+
 export const AuthController = {
   loginUser,
   refreshToken,
+  changePassword,
 };
